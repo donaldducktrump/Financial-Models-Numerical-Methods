@@ -7,7 +7,7 @@
 *.mtc*
 *.out
 *backup
-
+*FMNM
 *.sty
 *.png
 #*.pdf
